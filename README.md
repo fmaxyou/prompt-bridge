@@ -11,7 +11,17 @@
 
 ---
 
-<!-- tr-download-start -->
+## AI Prompts Management!
+
+You can look at **[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)** to find interesting features to import into the app. 
+
+![chatgpt cmd](./assets/prompt-bridge-preview.png)
+
+## ✨ Features
+
+- Multi-platform: `Windows` `macOS` `Linux`
+- Centralized AI prompt management.
+- Utilize abbreviations or keyboard shortcuts for the prompt's expedited invocation.
 
 ## 📦 Install
 
@@ -27,24 +37,11 @@
 
 - Uploading...
 
-<!-- tr-download-end -->
+## 💡 Feedback
 
-## AI Prompts Management!
-
-You can look at **[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)** to find interesting features to import into the app. 
-
-![chatgpt cmd](./assets/prompt-bridge-preview.png)
-
-## ✨ Features
-
-- Multi-platform: `Windows` `macOS` `Linux`
-- Centralized AI prompt management.
-- Utilize abbreviations or keyboard shortcuts for the prompt's expedited invocation.
+Mail: chinayoufa1994@gmail.com
 
 ---
 
 [![Star History Chart](https://api.star-history.com/svg?repos=yorkfread/prompt-bridge&type=Timeline)](https://star-history.com/#yorkfread/prompt-bridge&Timeline)
 
-## Feedback
-
-Mail: chinayoufa1994@gmail.com
