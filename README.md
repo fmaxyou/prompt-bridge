@@ -11,8 +11,6 @@
   <p align="center">Utilize abbreviations or keyboard shortcuts for the prompt's expedited invocation.</p>
 </p>
 
----
-
 ## AI Prompts Management!
 
 You can look at **[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)** to find interesting features to import into the app. 
