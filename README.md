@@ -1,14 +1,15 @@
-<p align="center">
-  <img width="180" src="./public/logo.png" alt="PromptBridge">
-  <h1 align="center">Prompt Bridge</h1>
-  <p align="center">Centralized AI prompt management in one location.</p>
-  <p align="center">Utilize abbreviations or keyboard shortcuts for the prompt's expedited invocation.</p>
-</p>
+# Prompt Bridge
 
 [![Twitter](https://img.shields.io/twitter/url?label=Tweet&style=social&url=https://twitter.com/fmaxyou)](https://twitter.com/fmaxyou) [![GitHub forks](https://img.shields.io/github/forks/yorkfread/prompt-bridge?style=plastic)](https://github.com/yorkfread/prompt-bridge/network) [![GitHub stars](https://img.shields.io/github/stars/yorkfread/prompt-bridge?style=plastic)](https://github.com/yorkfread/prompt-bridge/stargazers)
 
 [![windows download](https://img.shields.io/badge/Windows_Download-v1.0.0-brightgreen.svg)](https://e.pcloud.link/publink/show?code=XZ8rx2ZyWXIYxyezp7MJ3AviiHTybIk2oA7)
 [![macos download](https://img.shields.io/badge/macOS_Download-v1.0.0-brightgreen.svg)](https://e.pcloud.link/publink/show?code=XZLrx2ZfIoz6SIo3dujglO0fE0sLkLJ9G0V)
+
+<p align="center">
+  <img width="180" src="./public/logo.png" alt="PromptBridge">
+  <p align="center">Centralized AI prompt management in one location.</p>
+  <p align="center">Utilize abbreviations or keyboard shortcuts for the prompt's expedited invocation.</p>
+</p>
 
 ---
 
