@@ -29,7 +29,7 @@
 
 <!-- tr-download-end -->
 
-## ChatGPT Prompts Management!
+## AI Prompts Management!
 
 You can look at **[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)** to find interesting features to import into the app. 
 
