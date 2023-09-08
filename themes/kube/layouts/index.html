@@ -1,0 +1,37 @@
+{{ define "title"}} {{ .Site.Title}} {{end}} {{ define "header"}} {{ partial
+"header" .}} {{end}} {{ define "main"}}
+
+<div id="main">
+  <div id="hero">
+    <img src="/img/logo.png" width="150" />
+    <h1>{{.Title}}</h1>
+    <p>{{.Description}}</p>
+  </div>
+  <div id="action-buttons">
+    <a
+      class="button primary big"
+      href="https://e.pcloud.link/publink/show?code=XZ8rx2ZyWXIYxyezp7MJ3AviiHTybIk2oA7"
+      ><img src="/img/windows.png" width="40" style="vertical-align: middle;" />
+      <span style="vertical-align: middle;">Download for Windows</span>
+    </a>
+    <a
+      class="button primary big"
+      href="https://e.pcloud.link/publink/show?code=XZLrx2ZfIoz6SIo3dujglO0fE0sLkLJ9G0V"
+    >
+      <img src="/img/mac.png" width="40" style="vertical-align: middle;" />
+      <span style="vertical-align: middle;">Download for Mac</span>
+    </a>
+  </div>
+  <div id="action-buttons">
+    <a
+      class="button outline big"
+      href="https://github.com/yorkfread/prompt-bridge"
+      onclick="_gaq.push(['_trackEvent', 'kube', 'github']);"
+      >View on Github</a
+    >
+  </div>
+  <div>
+    <img src="/img/prompt-bridge-preview-2.png" />
+  </div>
+</div>
+{{ end }} {{ define "footer"}} {{ partial "footer" .}} {{end}}
