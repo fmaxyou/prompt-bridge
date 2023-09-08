@@ -1,0 +1,9 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Prompt Bridge"
+theme = "kube"
+description = "Centralized AI prompt management in one location."
+Paginate = 4
+[Params]
+  RSSLink = "/index.xml"
+  author = "Max You" # add your company name
