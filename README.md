@@ -41,6 +41,11 @@ You can look at **[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt
 
 Mail: chinayoufa1994@gmail.com
 
+## 🏆 Support
+If you find this tool enjoyable, kindly consider casting your vote on Product Hunt. Your support is immensely appreciated, and I wish you a splendid day.
+
+<a href="https://www.producthunt.com/posts/prompt-bridge" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=prompt-bridge" alt="Centralized AI prompt management in one location." style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 ---
 
 [![Star History Chart](https://api.star-history.com/svg?repos=yorkfread/prompt-bridge&type=Timeline)](https://star-history.com/#yorkfread/prompt-bridge&Timeline)
