@@ -27,11 +27,15 @@ You can look at **[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt
 
 ### Windows
 
-- [Prompt Bridge_1.0.0.exe](https://e.pcloud.link/publink/show?code=XZ8rx2ZyWXIYxyezp7MJ3AviiHTybIk2oA7): Direct download installer
+- [Prompt Bridge_1.0.0_x64.exe](https://e.pcloud.link/publink/show?code=XZpTt2Zpx9N0R27dlVC8VwhKauC87X9R2Fk): Direct download installer
 
 ### Mac
 
-- [Prompt Bridge_1.0.0.dmg](https://e.pcloud.link/publink/show?code=XZLrx2ZfIoz6SIo3dujglO0fE0sLkLJ9G0V): Direct download installer
+#### Mac Apple Chip
+- [Prompt Bridge_1.0.0_arm64.dmg](https://e.pcloud.link/publink/show?code=XZRTt2Zm94xiqzG2Tmr6c1H21ikg0uyff0V): Direct download installer
+
+#### Mac Intel Chip
+- [Prompt Bridge_1.0.0_x64.dmg](https://e.pcloud.link/publink/show?code=XZA2t2Zpkb6He3mKDQxFGcQdxlPcmi56iBy): Direct download installer
 
 ### Linux
 
